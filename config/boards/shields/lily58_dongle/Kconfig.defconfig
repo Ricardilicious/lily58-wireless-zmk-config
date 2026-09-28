@@ -1,0 +1,15 @@
+if SHIELD_LILY58_DONGLE
+
+config ZMK_KEYBOARD_NAME
+    default "Lily58"
+
+config ZMK_SPLIT
+    default y
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+config ZMK_KSCAN_MOCK_DRIVER
+    default y
+
+endif
