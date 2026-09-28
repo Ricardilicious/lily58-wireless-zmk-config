@@ -1,6 +1,0 @@
-/*
- * Dongle keymap: shares the keymap used by the halves.
- * Edit lily58.keymap and both stay in sync.
- */
-
-#include "lily58.keymap"
